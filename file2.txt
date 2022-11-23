@@ -1,2 +1,1 @@
-Hello 
-Im going to compare a file
+
